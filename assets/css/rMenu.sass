@@ -1,0 +1,40 @@
+#mobileMenu
+	position: fixed
+	top: 0em
+	left: -23.1em
+	width: 23em
+	height: 100%
+	background-color: $darkGrey
+	border-right: 1px solid black
+
+
+#mobileMenu > a:link, a:visited, a:hover, a:active 
+	text-decoration: none
+
+#mobileMenu > ul
+	margin: 0
+	padding: 0
+
+#mobileMenu > ul > li
+	width: 93%
+	list-style-type: none
+	font-size: 1.6rem
+	padding: 1em 0 1em 1.1em
+
+#mobileMenu > ul > li:hover
+	background-color: $primary
+
+
+.menu-open
+	left: 231px
+
+
+#mobileMenu, body 
+	-webkit-transition: left 0.3s ease
+	-moz-transition: left 0.3s ease
+	transition: left 0.3s ease
+
+
+.menu-open #mobileMenu
+	left: 0px
+

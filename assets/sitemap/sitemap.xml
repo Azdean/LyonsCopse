@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+	
+	<url>
+		<loc>http://azdeansamih.co.uk/lyonscopse/index.php</loc>
+		<lastmod>15-01-21T10:24:00</lastmod>
+		<changefreq>daily</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+
+	<url>
+		<loc>http://azdeansamih.co.uk/lyonscopse/calender.php</loc>
+		<lastmod>15-01-21T10:24:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+
+	<url>
+		<loc>http://azdeansamih.co.uk/lyonscopse/facilities.php</loc>
+		<lastmod>15-01-21T10:24:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+
+	<url>
+		<loc>http://azdeansamih.co.uk/lyonscopse/gallery.php</loc>
+		<lastmod>15-01-21T10:24:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+
+	<url>
+		<loc>http://azdeansamih.co.uk/lyonscopse/contact.php</loc>
+		<lastmod>15-01-21T10:24:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
+		<loc>http://azdeansamih.co.uk/lyonscopse/local.php</loc>
+		<lastmod>15-01-21T10:24:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
+		<loc>http://azdeansamih.co.uk/lyonscopse/rules.php</loc>
+		<lastmod>15-01-21T10:24:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+
+	<url>
+		<loc>http://azdeansamih.co.uk/lyonscopse/booking.php</loc>
+		<lastmod>15-01-21T10:24:00</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>1.0</priority>
+	</url>
+</urlset>

@@ -1,0 +1,38 @@
+Author: Azdean Samih, 2015
+
+V1: Basic Wireframe
+	-Initial Build
+		-Constructed file structure.
+		-Created basic PHP files for site content.
+		-Built basic wireframe for site layout.
+
+V2: Responsive Frames
+	-Added basic CSS styling.
+	-Added Media queries to ensure responsive framing.
+
+V3: Styling and content test
+	-Added basic content to test styling
+	-Added logo to header and styled
+	-Added contents of banner and set up basic code for implimentation of the CMS
+
+V4: CMS and Responsive Menu
+	-Added CouchCMS editable regions to template
+	-Addes responsive menu for mobile users
+
+V5: Not recorded
+
+RC:
+
+	11/02/2015
+		Structure
+			-Modified diectory structure to be more effecient
+
+		Sass
+			-Recatalouged css into sass files for easier editing
+
+		Form
+			-Added booking form
+			-Styled booking form
+
+		Content
+			-Added some basic place holder content
