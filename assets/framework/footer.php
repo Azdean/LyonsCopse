@@ -1,3 +1,4 @@
+	</section>
 <footer>
 	<section id="footerNav">
 		<ul>
@@ -10,7 +11,6 @@
 			<li><a href="rules.php">Rules and Restrictions</a></li>
 			<li><a href="booking.php">Booking and Charges</a></li>
 		</ul>
-	</section>
 	<p>Powered by: <a href="http://www.couchcms.com/" title="CouchCMS - Simple Open-Source Content Management">CouchCMS</a></p>
 </footer>
 <!--JQuery-->

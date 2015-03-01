@@ -25,24 +25,9 @@
 		<header>
 			
 			<section id="mobileTitleWrap">
-				<img src="assets/img/burger.png" alt="Menu" id="menuIcon" />
+				<div id="menuIcoWrap">	
+					<img src="assets/img/burger.png" alt="Menu" id="menuIcon" />
+				</div>
 				<a href="index.php">Lyons Copse</a>
 			</section>
-
-			<section id="logo-wrapper">
-				<a href="index.php"><img id="logo" src="assets/img/logo.png" alt="Lyons Copse - Solent Scout Training Centre"></a>
-			</section>
-			
-			<nav>
-				<ul>
-					<li><a href="index.php">Home</a></li>
-					<li><a href="calender.php">Calender</a></li>
-					<li><a href="facilities.php">Facilities</a></li>
-					<li><a href="gallery.php">Gallery</a></li>
-					<li><a href="contact.php">Contact Us</a></li>
-					<li><a href="local.php">Our Local Area</a></li>
-					<li><a href="rules.php">Rules and Restrictions</a></li>
-					<li><a href="booking.php">Booking and Charges</a></li>
-				</ul>
-			</nav>
 		</header>

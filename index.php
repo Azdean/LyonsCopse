@@ -3,9 +3,7 @@
 <?php
 	include 'assets/framework/header.php';
 ?>
-
-<section id="wrapper">
-		<section id="banner">
+	<section id="banner">
 		<img id="bannerLogo" src="assets/img/bannerLogo.png">
 		
 		<div id="bannerText">	
@@ -22,8 +20,9 @@
 			</p>
 		</div>
 
-		</section>
+	</section>
 
+<section id="wrapper">
 		<section id="main">
 				<section id="title">
 						<p>Notice Board</p>
