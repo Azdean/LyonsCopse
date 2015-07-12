@@ -4,7 +4,7 @@
 	include 'assets/framework/header.php';
 ?>
 	<section id="banner">
-		<img id="bannerLogo" src="assets/img/bannerLogo.png">
+		<img id="bannerLogo" src="/LyonsCopse/assets/img/bannerLogo.png" />
 		
 		<div id="bannerText">	
 			<h2>
